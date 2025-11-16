@@ -1,3 +1,8 @@
+
+Please let me know before you follow this link 
+
+http://34.220.140.94:8000/docs#/default/ask_ask_get
+
 Project Overview. 
 
 This is an AI-powered concierge and client service platform designed for ultra-high-net-worth individuals and VIP clients. It uses advanced natural language processing and semantic search to understand, analyze, and respond to luxury service requests—such as travel bookings, dining arrangements, event access, and personalized lifestyle management.
@@ -179,9 +184,6 @@ This is a solution for AI-driven concierge and client service management. By com
 
 For final documentation along with the demo refer Documents/Aurora.docx
 
-Please let me know before you follow this link 
-
-http://34.220.140.94:8000/docs#/default/ask_ask_get
 
 
 
