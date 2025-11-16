@@ -137,24 +137,31 @@ Response: Delivered via API or interface
 AI Agent Workflow:
 
 User Query Input
+
 ↓
 
 LangChain Agent (Orchestration Core)
+
 ↓
 
 System Prompt (Rules & Restrictions)
+
 ↓
 
 Tool Selection (e.g., get_relevant_member_messages)
+
 ↓
 
 Tool Invocation (Semantic Search on User's Vector Store)
+
 ↓
 
 Data Retrieval (Relevant Messages)
+
 ↓
 
 GPT Model (Response Generation)
+
 ↓
 
 Final Response (Delivered via API)
