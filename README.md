@@ -176,8 +176,12 @@ Conclusion
 
 This is a solution for AI-driven concierge and client service management. By combining advanced natural language processing, semantic search, and robust data architecture, Aurora delivers highly personalized, efficient, and secure experiences for elite clientele. The modular design ensures scalability, privacy, and ease of integration with other platforms, positioning Aurora as a leader in luxury service automation. With clear documentation, strong compliance measures, and a forward-looking roadmap, Aurora is well-equipped to support the evolving needs of high-end clients and drive innovation in the industry.
 
-Application Walkthrough
 
+For final documentation along with the demo refer Documents/Aurora.docx
+
+Please let me know before you follow this link 
+
+http://34.220.140.94:8000/docs#/default/ask_ask_get
 
 
 
