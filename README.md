@@ -1,5 +1,5 @@
 
-Please let me know before you follow this link 
+Please let me know before you follow this link, so that i will run run instance
 
 http://34.220.140.94:8000/docs#/default/ask_ask_get
 
