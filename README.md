@@ -1,6 +1,6 @@
-Please let me know before you follow this link, so that i will run run instance
+Please let me know before you follow this link, so that i will run the instance
 
-http://34,220,140,94:8000/docs#/default/ask_ask _get
+http://34.220.140.94:8000/docs#/default/ask_ask_get
 ---
 
 # **Project Overview**
